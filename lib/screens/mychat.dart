@@ -63,7 +63,7 @@ class _ChatScreenState extends State<ChatScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('ChatGPT '),
+        title: Text('myChat'),
       ),
       body: Column(
         children: <Widget>[
